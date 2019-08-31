@@ -1,6 +1,6 @@
 FROM scratch
 
-LABEL curder <q.curder@gmail.com>
+LABEL curder (q.curder@gmail.com)
 
 ADD hello /
 
